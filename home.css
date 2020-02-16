@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image:url(3.jpg);
+	background-size: 100% 2500px;
+	background-repeat: no-repeat;
+}
+
+h1{
+	text-align: center;
+    padding: 3px;
+    width: 500px;
+    margin: -1px 0px 0px 440px;
+    color: #ffdc1b
+}
+h2{
+	text-align: center;
+	padding: 20px;
+	    margin: 3px 0px 0px -62px;
+}
+
+a{
+	color: #fffa27;
+	    margin: 21px 0px 0px 1147px;
+}
+
+
+#register{
+
+	margin-left: 400px;
+}
+label{
+
+	color: #ffd800;
+	font-family: sans-serif;
+	font-size: 18px;
+	font-style: italic;
+}
+
+
+#name{
+
+	width:300px;
+	border:none;
+	border-radius: 3px;
+	outline: 0px;
+	padding: 7px;
+}
+
+
+#sub{
+    width: 108px;
+    padding: 5px;
+    border: none;
+    border-radius: 4px;
+        font-family: sans-serif;
+    font-style: italic;
+}
+
+
